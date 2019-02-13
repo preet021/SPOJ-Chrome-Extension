@@ -1,0 +1,24 @@
+{
+	"name": "SPOJ Problem Score",
+	
+	"version": "1",
+	
+	"manifest_version": 2,
+	
+	"description": "try",
+	
+	"author": "Preet Thakkar",
+	
+	"browser_action": {
+		"default_icon": "favicon_spoj.png",
+		"default_title": "SPOJ Problem Score",
+		"default_popup": "popup.html"
+	},
+	
+	"content_scripts": [
+		{
+			"matches": ["https://www.spoj.com/problems/*"],
+			"js": ["content.js"]
+		}
+	]
+}
