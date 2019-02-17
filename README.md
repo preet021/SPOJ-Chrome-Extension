@@ -8,8 +8,8 @@ SPOJ has over 20,000 problems. Usually, to know the score of a problem, you need
 
 ### Normally: 
 
-![Normal](./normal.png)
+![Normal](./src/img/normal.png)
 
 ### With Extension:
 
-![Score](./ext.png)
+![Score](./src/img/ext.png)
