@@ -10,15 +10,15 @@
 	"author": "Preet Thakkar",
 	
 	"browser_action": {
-		"default_icon": "src/img/favicon_spoj.png",
+		"default_icon": "img/favicon_spoj.png",
 		"default_title": "SPOJ Problem Score",
-		"default_popup": "src/popup.html"
+		"default_popup": "popup.html"
 	},
 	
 	"content_scripts": [
 		{
 			"matches": ["https://www.spoj.com/problems/*"],
-			"js": ["src/content.js"]
+			"js": ["content.js"]
 		}
 	]
 }
