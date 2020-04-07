@@ -1,3 +1,5 @@
+Add the extension to your browser from the [Chrome Web Store](https://chrome.google.com/webstore/detail/spoj-problems-score/pbcdiclhehecklkpbhmndllmkiojhiif).
+
 ## SPOJ Score Display
 
 A chrome extension that displays score of a problem on [SPOJ](https://www.spoj.com).
