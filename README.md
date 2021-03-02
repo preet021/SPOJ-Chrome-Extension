@@ -1,4 +1,4 @@
-Add the extension to Chrome from the Chrome Web Store: [![preet](https://img.shields.io/badge/Add-SPOJScore-green)](https://chrome.google.com/webstore/detail/spoj-problems-score/pbcdiclhehecklkpbhmndllmkiojhiif)
+[![SPOJScore](https://img.shields.io/badge/Add-SPOJScore-green)](https://chrome.google.com/webstore/detail/spoj-problems-score/pbcdiclhehecklkpbhmndllmkiojhiif)
 
 ## SPOJ Score Display
 
